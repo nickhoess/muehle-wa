@@ -23,6 +23,6 @@ Endphase: Sobald ein Spieler nur noch drei Steine hat, darf er mit seinen Steine
 Drei Steine einer Farbe, die in einer Geraden auf Feldern nebeneinander liegen, nennt man eine „Mühle“.
 Wenn ein Spieler eine Mühle schließt, darf er einen beliebigen Stein des Gegners aus dem Spiel nehmen, sofern dieser Stein nicht ebenfalls Bestandteil einer Mühle ist.
 
-Strategie
+Strategie:
 Eine gute Strategie beim Mühlespiel besteht darin, möglichst viele offene Mühlen zu bilden und gleichzeitig die gegnerischen Mühlen zu blockieren.
 Eine offene Mühle ist eine Mühle, bei der mindestens ein Stein des Gegners entfernt wurde und somit eine Lücke entstanden ist.
