@@ -40,3 +40,7 @@ case class Controller @Inject() (var field: FieldInterface) extends ControllerIn
     def select(x: Int, y: Int) =
         field = invoker.doStep(SelectCommand(x, y, this))
         publish(new fieldchange)
+
+    def somethingToSrting(): String =
+        val s = "Hello There"
+        s
